@@ -1,4 +1,4 @@
-# NeatWork 1.0.0
+NeatWork 1.0.0
 
 A mod loader for **Devices Tycoon** that runs beside the game instead of inside its files.
 
