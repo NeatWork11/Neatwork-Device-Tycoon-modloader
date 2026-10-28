@@ -7,7 +7,7 @@ own debug door and hands the mods to the game's own screens, so a mod lives insi
 window, inside the Settings screen, inside the office - not floating on top of them. Turn
 NeatWork off and the game is the game.
 
-Made by **ModLoader Device Tycoon Provider**.
+Made by **Neat11/Neat3**.
 
 ---
 
